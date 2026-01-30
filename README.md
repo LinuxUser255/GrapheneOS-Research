@@ -1,5 +1,9 @@
 # GrapheneOS Research & Review
 
+<p align="center">
+  <img src="images/GrapheneOS-logo.png" alt="GrapheneOS Logo">
+</p>
+
 Contained in this repository is a high-level overviews, and detailed technical explanations of **GrapheneOS** — a privacy and security-focused mobile OS based on the Android Open Source Project (AOSP), designed for Google Pixel devices.
 
 The primary document is a comprehensive beginner-to-intermediate review of GrapheneOS's security architecture, written for those interested in mobile hardening, Android internals, and defenses against modern threats.
