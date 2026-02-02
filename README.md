@@ -8,9 +8,9 @@ Contained in this repository is a high-level overviews, and detailed technical e
 
 The primary document is a comprehensive beginner-to-intermediate review of GrapheneOS's security architecture, written for those interested in mobile hardening, Android internals, and defenses against modern threats.
 
-You can also find a earlier version of this on my [BSides Triad](https://www.bsidestriad.org/research/most-secure-mobile-os) page.
+- You can also find a earlier version of this on my [BSides Triad](https://www.bsidestriad.org/research/most-secure-mobile-os) page.
 
-My atttempt at building a GrapheneOS for Pixel 4. Pixel 4 is no longer supported, and I wanted to give it a go and try and build one myself.
+- My atttempt at building a GrapheneOS for Pixel 4. Pixel 4 is no longer supported, and I wanted to give it a go and try and build one myself.
 see it here:
 
 https://github.com/LinuxUser255/GrapheneOS-Buil-Pixel-4/tree/main
