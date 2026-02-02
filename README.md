@@ -10,10 +10,11 @@ The primary document is a comprehensive beginner-to-intermediate review of Graph
 
 - You can also find a earlier version of this on my [BSides Triad](https://www.bsidestriad.org/research/most-secure-mobile-os) page.
 
-- My atttempt at building a GrapheneOS for Pixel 4. Pixel 4 is no longer supported, and I wanted to give it a go and try and build one myself.
-see it here:
+- My atttempt at building a GrapheneOS for Pixel 4. Pixel 4 has reached EOL, and is no longer supported.
+  I wanted to give it a go and try and build one myself.
+  see it here:
 
-https://github.com/LinuxUser255/GrapheneOS-Buil-Pixel-4/tree/main
+  https://github.com/LinuxUser255/GrapheneOS-Buil-Pixel-4/tree/main
 
 ## Main Document
 
